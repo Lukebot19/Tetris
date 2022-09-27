@@ -1,9 +1,3 @@
-# ECM1417 Web Development Coursework
-
-### Student ID: 710036671
-
-### Link to Azure Lab VM: http://ml-lab-4d78f073-aa49-4f0e-bce2-31e5254052c7.ukwest.cloudapp.azure.com:64507/index.php
-
 ---
 
 ## Tetris
